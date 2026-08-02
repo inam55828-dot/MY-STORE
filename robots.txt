@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inam55828-dot.github.io/MY-STORE/sitemap.xml
